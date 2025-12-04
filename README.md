@@ -53,13 +53,24 @@ Visual presentation
 
 To understand the business model behind Kickstarter and analyze the factors that make crowdfunding campaigns successful.
 
-📦 Files Included
+# Crowdfunding Data Analytics Project
 
-Kickstarter Overview.pdf – Complete detailed explanation
+## 📂 Large Files (Datasets + Tableau + Power BI)
+To keep the GitHub repo light, all heavy files are stored in Google Drive:
 
-README.md – This documentation
+👉 **Download All Files:**  
+[Google Drive Link](https://drive.google.com/drive/folders/14aNlg0St-e86tOS2-nKj8WIQIguBNGyY?usp=sharing)
 
-👨‍💻 Author
+## 📊 Project Contents
+- Excel Dataset
+- SQL Queries & Analysis
+- Power BI Dashboard
+- Tableau Dashboard
+- Insights & Documentation
 
-Rohith Reddy
-Data Analyst | AI Graduate
+## 📘 How to Use
+1. Download data and dashboards from Drive  
+2. Open SQL scripts / Power BI / Tableau files  
+3. Follow analysis steps documented here
+
+
