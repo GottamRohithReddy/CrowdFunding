@@ -48,6 +48,8 @@ PDF Documentation (project explanation)
 Analytical breakdowns
 
 Visual presentation
+<img width="1662" height="802" alt="image" src="https://github.com/user-attachments/assets/ede2a911-4b20-45dc-a545-1d2da7386509" />
+
 
 🎯 Purpose
 
